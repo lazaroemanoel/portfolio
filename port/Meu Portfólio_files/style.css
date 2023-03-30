@@ -1,0 +1,55 @@
+.sb{
+    align-items: center;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #468;
+    color: #f90000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.footer{
+    align-items: center;
+    justify-cpadding: 95px 90px; color-scheme: center;
+}
+
+.image{
+    width: 150px
+}
+
+.cardct{
+    padding: 30px;
+    background-color: #468;
+    align-items: center;
+    justify-content: center;
+
+}
+.ctt{
+    display: grid;
+    justify-content: flex;
+    gap: 60px;
+}
+.ctt1{
+    width: 120px; 
+}    
+.ctt2{
+    width: 120px;
+}
+
+.ctt3{
+    width: 120px;
+}
+
+#contato {
+    display: grid;
+    justify-content: center;
+    margin-left: 5%;
+}
